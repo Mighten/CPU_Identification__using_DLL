@@ -16,7 +16,7 @@ Signed-off-by: Mighten
 				
 Notion:
 
-1. You must config the MASM32 as well as VC++'s  /bin directory in "Environment Variables", or it doesn't work.
+1. You must config the  "Environment Variables", especially MASM32v11 as well as MSVC's important directory, or it doesn't work.
 2. To yield the DLL file, run the *.bat, a self-compiling file.
 3. More detailed sample of using DLL file will be uploaded by me later...
 
