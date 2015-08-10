@@ -4,7 +4,7 @@ CPU Identification, DLL-file source codes written in Win32 Assembly Language
 
 Source codes for building DLL file
 
-		-- For those who are found of programming !!
+		-- For those who are fond of programming !!
 		     You may modify these stuff accordingly.
 
 
